@@ -31,6 +31,27 @@ Junior Backend Developer based in Kuala Lumpur.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+## Things I've built
+
+- **Ticket management system (CakePHP):** a pilot internal system with role-based authorization, ticket assignment, comments, email notifications, and an audit trail.
+- **Reporting tool (Redmine API):** generates daily and weekly workload reports for a team of 20, so nobody has to write them manually anymore.
+- **E-name card system (Laravel):** TAC login, QR codes, a multi-organisation admin panel, and about 120 automated tests, because "it works on my machine" is not a test strategy.
+- **ServiceConnect (Flutter, Firebase):** an app that matches clients with household service providers using a scoring algorithm.
+- **Monitoring setup:** Zabbix and Grafana with Discord webhook alerts.
+
+## Currently
+
+- Building **CourtBook**, a badminton court booking platform in .NET (work in progress, and yes, I'm working on double-booking prevention)
+- Applying for jobs, practising interview answers out loud, and drinking more coffee than is medically advisable
+
+## Find me at
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zhienyiet.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zhienyiet.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chan--zhien--yiet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chan-zhien-yiet/)
+[![Email](https://img.shields.io/badge/Email-zychan1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zychan1222@gmail.com)
+
+**Languages:** English, Mandarin, Malay
+
 <!--
 **zychan1222/zychan1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
