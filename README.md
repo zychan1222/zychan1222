@@ -1,5 +1,5 @@
 ## Chan Zhien Yiet (zychan1222)
-Junior Backend Developer based in Kuala Lumpur.
+I'm a Junior Backend Developer based in Kuala Lumpur, Malaysia, who runs on coffee and the occasional 4:00 am server update, so my code and my coffee tolerance are both well tested.
 
 ## What I work with
 
