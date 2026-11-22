@@ -1,6 +1,5 @@
-## Hi, I'm Zhien Yiet 👋
-- I'm a Junior Backend Developer based in Kuala Lumpur, Malaysia 🇲🇾
-- 
+## Chan Zhien Yiet (zychan1222)
+Junior Backend Developer based in Kuala Lumpur.
 
 <!--
 **zychan1222/zychan1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
